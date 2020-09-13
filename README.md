@@ -1,5 +1,5 @@
 # tf-idf-workshop
-Taller practico de Term Frequency–Inverse Document Frequency (TF-IDF)
+Ejemplo práctico de Term Frequency–Inverse Document Frequency (TF-IDF). Un metodo que calcula cuan relevante o importante es un palabra para un documento en una colección de documentos.
 
 ## Mision
 - Lectura de archivos CSV con pandas.
